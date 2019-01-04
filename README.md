@@ -6,7 +6,7 @@
   最后直接运行以下命令即可：
   python3 socketTester.py
 二、软件截图
-![socketClient](http://image.dekiru.cn/socketTester_v1.PNG)
+![socketClient](http://images.dekiru.cn/socketTester_v1.PNG)
 
 三、联系作者
   bkdwei@163.com
